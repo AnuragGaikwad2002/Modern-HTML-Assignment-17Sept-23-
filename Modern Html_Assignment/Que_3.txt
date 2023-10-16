@@ -1,0 +1,6 @@
+Accessibility is the practice of making your website as usable by many users as possible.
+Benifits of accessibility in html.
+        1. Helps in SEO.
+        2. Improves user experience.
+        3. Makes website screen reader compatible.
+        4. Gives better readabilty for code. 

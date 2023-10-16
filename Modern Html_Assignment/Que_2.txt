@@ -1,0 +1,6 @@
+Entities are frequently used to display reserved characters (which would otherwise be interpreted as HTML code), and invisible characters (like non-breaking spaces). 
+Some commonly used entities:-
+     1.&	&amp;	Interpreted as the beginning of an entity or character reference.
+     2.<	&lt;	Interpreted as the beginning of a tag
+     3.>	&gt;	Interpreted as the ending of a tag
+     4."	&quot;	Interpreted as the beginning and end of an attribute's value.

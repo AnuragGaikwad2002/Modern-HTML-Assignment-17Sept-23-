@@ -1,0 +1,4 @@
+The 3 ways by which we can improve accessibility in html are:-
+    1. Using of alt text in images and videos tag.
+    2. Using Sematic tags like header,article, for our website code.
+    3.  Using color in proper manner to help the reader.
